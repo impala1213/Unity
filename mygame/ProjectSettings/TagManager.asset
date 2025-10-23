@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Battle Gate
+  - Orb Target
+  - TileMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - Player
+  - RealTerrainDetector
+  - Enemies
+  - Projectiles
+  - Hero Detector
+  - Terrain Detector
+  - Enemy Detector
+  - Tinker
+  - Attack
+  - Particle
+  - Interactive Object
+  - Hero Box
+  - Grass
+  - Enemy Attack
+  - Damage All
+  - Bouncer
+  - Soft Terrain
+  - Corpse
+  - uGUI
+  - Hero Only
+  - GeoDetector
+  - Geo
+  - Stalactite
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Far Far  Background
+    uniqueID: 364688035
+    locked: 0
+  - name: Far Background
+    uniqueID: 1292751173
+    locked: 0
+  - name: Middle Background
+    uniqueID: 3191334197
+    locked: 0
+  - name: Immediate Background
+    uniqueID: 2132455891
+    locked: 0
+  - name: NPC
+    uniqueID: 4031361457
+    locked: 0
+  - name: Player
+    uniqueID: 1106877815
+    locked: 0
+  - name: Tiles
+    uniqueID: 1097062513
+    locked: 0
+  - name: MID Dressing
+    uniqueID: 326175803
+    locked: 0
+  - name: Immediate Foreground
+    uniqueID: 4068108903
+    locked: 0
+  - name: Far Foreground
+    uniqueID: 1316544377
+    locked: 0
+  - name: Over
+    uniqueID: 1885772189
+    locked: 0
+  - name: HUD
+    uniqueID: 626854091
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,837 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e07c9b2c97f84356bb2bfac29363e611, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_StyleTrainerData:
+    rid: 3088193021128212674
+  m_DefaultStyleData:
+    rid: 3088193021128212675
+  m_DefaultStyleVersion: 2023111600
+  m_DefaultStyles:
+  - rid: 3088193021200302392
+  m_AssetPath: 
+  m_PreviousProjectIDs: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 3088193021128212674
+      type: {class: StyleTrainerData, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+        m_State: 1
+        m_Disposing: 0
+        m_Styles:
+        - rid: 3088193021200302158
+        - rid: 3088193021200302393
+        - rid: 3088193021200302394
+        m_Version: 202231001
+    - rid: 3088193021128212675
+      type: {class: StyleTrainerData, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 11000000-0000-0000-0000-000000000011
+        m_State: 1
+        m_Disposing: 0
+        m_Styles:
+        - rid: 3088193021200302455
+        m_Version: 202231001
+    - rid: 3088193021200302158
+      type: {class: StyleData, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: bb08f02f-d996-4c4a-94fe-182db7e56bf9
+        m_State: 1
+        m_Disposing: 0
+        m_IsFallback: 0
+        m_Thumbnail:
+          rid: 3088193021200302161
+        m_Visible: 1
+        selectedCheckPointGUID: 3d5927b7-4ed3-46dc-a079-757f2ae47591
+        m_FavoriteCheckPointGUID: 00000000-0000-0000-0000-000000000000
+        parentID: 00000000-0000-0000-0000-000000000000
+        m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+        m_TrainingSteps: 2000
+        m_CheckPoints:
+        - m_Guid: 3303929c-926f-42c9-a89b-c31444d8786e
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: 6d578bba-3943-48d5-9829-9d9cd138954e
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 6d578bba-3943-48d5-9829-9d9cd138954e
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: 19c7a41f-ca45-40a3-a30d-802a2a104d5d
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 19c7a41f-ca45-40a3-a30d-802a2a104d5d
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: 88cd3a14-09b6-4f6d-8a92-5d0a8f418f56
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 88cd3a14-09b6-4f6d-8a92-5d0a8f418f56
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 200
+        - m_Guid: 504048d8-4594-477b-a8c1-540d181b5ada
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: b4c36e24-c4c8-48b2-b7d8-55d0fa9b51d8
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: b4c36e24-c4c8-48b2-b7d8-55d0fa9b51d8
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: a1995705-eab4-4558-bc5f-dc39dfc8cddf
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: a1995705-eab4-4558-bc5f-dc39dfc8cddf
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: 6fbc6511-9093-4f8b-9322-8d639736a239
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 6fbc6511-9093-4f8b-9322-8d639736a239
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 400
+        - m_Guid: 6f66fc05-61ca-4d0b-8c82-b9ccbb39f908
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: 218fd9d5-4beb-4553-870c-b36243e502d1
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 218fd9d5-4beb-4553-870c-b36243e502d1
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: 6fbe58c6-d59d-4927-a453-2b14d689b005
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 6fbe58c6-d59d-4927-a453-2b14d689b005
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: 81897f24-2615-4ea0-a97e-690c6c78e497
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 81897f24-2615-4ea0-a97e-690c6c78e497
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 600
+        - m_Guid: 1b6400a5-4b64-42f7-b229-63eb93517622
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: 10331651-5f29-4ab3-bcc0-48e979ef4669
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 10331651-5f29-4ab3-bcc0-48e979ef4669
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: b790574f-cbc5-4b2f-9e5b-e3d2353268ba
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: b790574f-cbc5-4b2f-9e5b-e3d2353268ba
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: b4519671-3587-4f11-a97e-487cfba93e93
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: b4519671-3587-4f11-a97e-487cfba93e93
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 800
+        - m_Guid: ed6757fd-b482-4740-9907-29917d4ef049
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: e333d568-002b-486d-983f-0022b909f688
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: e333d568-002b-486d-983f-0022b909f688
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: 562262eb-31bf-4434-9181-ae652fb9d8a3
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 562262eb-31bf-4434-9181-ae652fb9d8a3
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: be2badc5-c817-42c7-8923-de77fbec8843
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: be2badc5-c817-42c7-8923-de77fbec8843
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 1000
+        - m_Guid: 23fde60d-6d6c-46f3-bc5e-1a4fa5c0edd4
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: b2db675f-8271-49db-a53f-33201f090569
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: b2db675f-8271-49db-a53f-33201f090569
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: d56b9bc0-47ce-4828-b7fd-fb34e873d75d
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: d56b9bc0-47ce-4828-b7fd-fb34e873d75d
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: a3157f50-2629-407f-a65a-da05f4bbabf3
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: a3157f50-2629-407f-a65a-da05f4bbabf3
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 1200
+        - m_Guid: c98d319d-30d8-4011-b66b-1d19d8f44934
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: 89a0e3de-23af-4f18-a4ec-8b10d87a3e2f
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 89a0e3de-23af-4f18-a4ec-8b10d87a3e2f
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: ed3254e3-b29e-4fe6-b66d-248d4158cce7
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: ed3254e3-b29e-4fe6-b66d-248d4158cce7
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: 61d93786-c1e5-4615-8fb6-cd00057e08e8
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 61d93786-c1e5-4615-8fb6-cd00057e08e8
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 1400
+        - m_Guid: 153e0562-91d0-40f3-b8a0-40a61a054470
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: 4ef4ab58-6030-4c5e-b5a8-072381cc59e5
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 4ef4ab58-6030-4c5e-b5a8-072381cc59e5
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: 210e33d6-eabb-4f41-acb6-89a07d916662
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 210e33d6-eabb-4f41-acb6-89a07d916662
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: 7793b28d-690d-43c4-bf1f-d3a090086912
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 7793b28d-690d-43c4-bf1f-d3a090086912
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 1600
+        - m_Guid: a98ab7fe-b333-4925-8c1c-0a8deec96848
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: 6488eddb-54d3-4fbf-af2e-bef5273cf6e9
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 6488eddb-54d3-4fbf-af2e-bef5273cf6e9
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: a792139b-053e-4b32-9fad-45d0fda17e8a
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: a792139b-053e-4b32-9fad-45d0fda17e8a
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: a1b6b692-d751-4aca-8abd-90026c3f0dca
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: a1b6b692-d751-4aca-8abd-90026c3f0dca
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 1800
+        - m_Guid: 3d5927b7-4ed3-46dc-a079-757f2ae47591
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_Name: star_canyon
+          m_Description: test
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+            m_State: 5
+            m_Disposing: 1
+            m_TrainingSet: []
+            m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+          m_ValidationImagesData:
+          - m_Guid: 3488fc4e-9802-4138-b571-4083cf67fdcf
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 3488fc4e-9802-4138-b571-4083cf67fdcf
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: frozen harbour background
+          - m_Guid: b1b24048-208a-42bd-9c9d-d5c1ad06b493
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: b1b24048-208a-42bd-9c9d-d5c1ad06b493
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: star_canyon background
+          - m_Guid: 979604de-2e6c-4c6a-97d3-5b7a438e43f8
+            m_State: 5
+            m_Disposing: 1
+            m_ImageArtifact:
+              m_Guid: 979604de-2e6c-4c6a-97d3-5b7a438e43f8
+              m_State: 1
+              m_Disposing: 1
+            m_Prompt: sea background
+          m_FavoriteSampleOutputDataGuid: 3488fc4e-9802-4138-b571-4083cf67fdcf
+          m_TrainingSteps: 2000
+        m_SampleOutputPrompts:
+        - frozen harbour background
+        - star_canyon background
+        - sea background
+        m_TrainingSetData:
+        - m_Guid: 1c4d1995-bbb3-46ac-9f5d-e7e82fe4c0b2
+          m_State: 1
+          m_Disposing: 0
+          m_TrainingSet:
+          - m_Guid: f8f4087d-ab56-4d80-9fcf-46c02a39312e
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302396
+          - m_Guid: 7dfc4842-526b-4ecb-a2a5-21f1e810e3c0
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302397
+          - m_Guid: 33ca1ed4-a20c-41f7-9c24-a06ebb7d4a21
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302398
+          - m_Guid: b0848eda-813f-4a1c-b396-da18463d0a67
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302399
+          - m_Guid: ed48d7c4-a36e-4d0d-b3b1-39eae93daef6
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302400
+          - m_Guid: d473686c-84ec-44db-a368-9ec4869a6d19
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302401
+          - m_Guid: 3ebcbdba-0612-4370-8983-8842afedbe2a
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302402
+          - m_Guid: 69d5a698-6028-4781-944e-64381762baa8
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302403
+          - m_Guid: be4e57c7-5e80-4f27-9b22-2840f2eaa60c
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302404
+          - m_Guid: c63a1b5c-f5a2-4fbf-bb2b-64be152f45b1
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302405
+          - m_Guid: be19e356-981b-414d-a21f-836b29b42bb8
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302406
+          - m_Guid: c47e3335-f18a-4dd7-965b-b69c2e9bd2a5
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302407
+          - m_Guid: 93d891cb-13ed-4387-adb5-5d0d43e91c67
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302408
+          - m_Guid: 3a143180-897f-4125-958e-3dcbe1ad9b33
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302409
+          - m_Guid: d5eddf3c-5038-4c28-bcf4-bab20c35e0d5
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              rid: 3088193021200302410
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+        m_Name: star_canyon
+        m_Description: test
+    - rid: 3088193021200302161
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 00000000-0000-0000-0000-000000000000
+        m_State: 3
+        m_Disposing: 1
+    - rid: 3088193021200302392
+      type: {class: StyleData, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 00000000-0000-0000-0000-000000000000
+        m_State: 1
+        m_Disposing: 0
+        m_IsFallback: 1
+        m_Thumbnail:
+          rid: -2
+        m_Visible: 0
+        selectedCheckPointGUID: 00000000-0000-0000-0000-000000000000
+        m_FavoriteCheckPointGUID: active
+        parentID: 00000000-0000-0000-0000-000000000000
+        m_ProjectID: 00000000-0000-0000-0000-000000000000
+        m_TrainingSteps: 2000
+        m_CheckPoints:
+        - m_Guid: 00000000-0000-0000-0000-000000000000
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 00000000-0000-0000-0000-000000000000
+          m_Name: Default
+          m_Description: Default style.
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 
+            m_State: 0
+            m_Disposing: 0
+            m_TrainingSet: []
+            m_ProjectID: 
+          m_ValidationImagesData: []
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 2000
+        m_SampleOutputPrompts: []
+        m_TrainingSetData: []
+        m_Name: Default
+        m_Description: Default style.
+    - rid: 3088193021200302393
+      type: {class: StyleData, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 
+        m_State: 3
+        m_Disposing: 0
+        m_IsFallback: 0
+        m_Thumbnail:
+          rid: 3088193021200302411
+        m_Visible: 1
+        selectedCheckPointGUID: 00000000-0000-0000-0000-000000000000
+        m_FavoriteCheckPointGUID: 00000000-0000-0000-0000-000000000000
+        parentID: 00000000-0000-0000-0000-000000000000
+        m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+        m_TrainingSteps: 2000
+        m_CheckPoints: []
+        m_SampleOutputPrompts:
+        - 
+        - 
+        - 
+        m_TrainingSetData:
+        - m_Guid: 00000000-0000-0000-0000-000000000000
+          m_State: 3
+          m_Disposing: 0
+          m_TrainingSet: []
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+        m_Name: New Style
+        m_Description: 
+    - rid: 3088193021200302394
+      type: {class: StyleData, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 
+        m_State: 3
+        m_Disposing: 0
+        m_IsFallback: 0
+        m_Thumbnail:
+          rid: 3088193021200302412
+        m_Visible: 1
+        selectedCheckPointGUID: 00000000-0000-0000-0000-000000000000
+        m_FavoriteCheckPointGUID: 00000000-0000-0000-0000-000000000000
+        parentID: 00000000-0000-0000-0000-000000000000
+        m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+        m_TrainingSteps: 2000
+        m_CheckPoints: []
+        m_SampleOutputPrompts:
+        - 
+        - 
+        - 
+        m_TrainingSetData:
+        - m_Guid: 00000000-0000-0000-0000-000000000000
+          m_State: 3
+          m_Disposing: 0
+          m_TrainingSet: []
+          m_ProjectID: 04152df1-f186-45a8-b8ce-c1c37cbd7027
+        m_Name: New Style
+        m_Description: 
+    - rid: 3088193021200302396
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: f8f4087d-ab56-4d80-9fcf-46c02a39312e
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302397
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 7dfc4842-526b-4ecb-a2a5-21f1e810e3c0
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302398
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 33ca1ed4-a20c-41f7-9c24-a06ebb7d4a21
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302399
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: b0848eda-813f-4a1c-b396-da18463d0a67
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302400
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: ed48d7c4-a36e-4d0d-b3b1-39eae93daef6
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302401
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: d473686c-84ec-44db-a368-9ec4869a6d19
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302402
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 3ebcbdba-0612-4370-8983-8842afedbe2a
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302403
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 69d5a698-6028-4781-944e-64381762baa8
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302404
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: be4e57c7-5e80-4f27-9b22-2840f2eaa60c
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302405
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: c63a1b5c-f5a2-4fbf-bb2b-64be152f45b1
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302406
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: be19e356-981b-414d-a21f-836b29b42bb8
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302407
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: c47e3335-f18a-4dd7-965b-b69c2e9bd2a5
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302408
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 93d891cb-13ed-4387-adb5-5d0d43e91c67
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302409
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 3a143180-897f-4125-958e-3dcbe1ad9b33
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302410
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: d5eddf3c-5038-4c28-bcf4-bab20c35e0d5
+        m_State: 1
+        m_Disposing: 1
+    - rid: 3088193021200302411
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 00000000-0000-0000-0000-000000000000
+        m_State: 3
+        m_Disposing: 1
+    - rid: 3088193021200302412
+      type: {class: ImageArtifact, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 00000000-0000-0000-0000-000000000000
+        m_State: 3
+        m_Disposing: 1
+    - rid: 3088193021200302455
+      type: {class: StyleData, ns: Unity.Muse.StyleTrainer, asm: Unity.Muse.StyleTrainer}
+      data:
+        m_Guid: 5cc104e0-423a-473e-8034-b9d346cb2357
+        m_State: 1
+        m_Disposing: 0
+        m_IsFallback: 0
+        m_Thumbnail:
+          rid: -2
+        m_Visible: 1
+        selectedCheckPointGUID: 00000000-0000-0000-0000-000000000000
+        m_FavoriteCheckPointGUID: active
+        parentID: 00000000-0000-0000-0000-000000000000
+        m_ProjectID: 11000000-0000-0000-0000-000000000011
+        m_TrainingSteps: 2000
+        m_CheckPoints:
+        - m_Guid: 03fa404b-39fc-4979-9272-deb5d8c4b24c
+          m_State: 1
+          m_Disposing: 0
+          m_ProjectID: 11000000-0000-0000-0000-000000000011
+          m_Name: 'Happy Harvest [Orion V4 2000]'
+          m_Description: 8 Nov 2023
+          parent_id: 00000000-0000-0000-0000-000000000000
+          m_TrainingSetData:
+            m_Guid: 3e758588-960f-44f5-865a-d5eaa1b1dec4
+            m_State: 5
+            m_Disposing: 0
+            m_TrainingSet: []
+            m_ProjectID: 11000000-0000-0000-0000-000000000011
+          m_ValidationImagesData:
+          - m_Guid: 96b39a19-2d3e-4bc5-aa3c-38667ed6eba5
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              m_Guid: 96b39a19-2d3e-4bc5-aa3c-38667ed6eba5
+              m_State: 5
+              m_Disposing: 0
+            m_Prompt: A chicken
+          - m_Guid: 05de072c-ebbc-43d7-886b-7ac4f9cbd079
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              m_Guid: 05de072c-ebbc-43d7-886b-7ac4f9cbd079
+              m_State: 5
+              m_Disposing: 0
+            m_Prompt: A cow
+          - m_Guid: 2dbfc212-f87b-45f9-a05a-06368e190ca1
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              m_Guid: 2dbfc212-f87b-45f9-a05a-06368e190ca1
+              m_State: 5
+              m_Disposing: 0
+            m_Prompt: A dog
+          - m_Guid: e0139464-a868-402a-95b8-b4c26685a97b
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              m_Guid: e0139464-a868-402a-95b8-b4c26685a97b
+              m_State: 5
+              m_Disposing: 0
+            m_Prompt: A farmer
+          - m_Guid: 4421bead-a3ff-4c09-9514-61e127eb470e
+            m_State: 5
+            m_Disposing: 0
+            m_ImageArtifact:
+              m_Guid: 4421bead-a3ff-4c09-9514-61e127eb470e
+              m_State: 5
+              m_Disposing: 0
+            m_Prompt: A pine tree
+          m_FavoriteSampleOutputDataGuid: 
+          m_TrainingSteps: 1200
+        m_SampleOutputPrompts:
+        - A chicken
+        - A cow
+        - A dog
+        - A farmer
+        - A pine tree
+        m_TrainingSetData:
+        - m_Guid: 3e758588-960f-44f5-865a-d5eaa1b1dec4
+          m_State: 5
+          m_Disposing: 0
+          m_TrainingSet: []
+          m_ProjectID: 11000000-0000-0000-0000-000000000011
+        m_Name: Default
+        m_Description: Default Style

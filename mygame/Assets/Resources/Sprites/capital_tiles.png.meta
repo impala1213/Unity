@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: cd005113896c49444902b887c0facd34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5852441078916987774
+    second: capital_tiles_0
+  - first:
+      213: -2919918701487171356
+    second: capital_tiles_1
+  - first:
+      213: 1464558871038129432
+    second: capital_tiles_2
+  - first:
+      213: 2666630943773340236
+    second: capital_tiles_3
+  - first:
+      213: 8114094542207423851
+    second: capital_tiles_4
+  - first:
+      213: -6383930023315129236
+    second: capital_tiles_5
+  - first:
+      213: 5771188877651357955
+    second: capital_tiles_6
+  - first:
+      213: -7380625542089623787
+    second: capital_tiles_7
+  - first:
+      213: -6172356051598670904
+    second: capital_tiles_8
+  - first:
+      213: 6650190016671135582
+    second: capital_tiles_9
+  - first:
+      213: -2981201791392896895
+    second: capital_tiles_10
+  - first:
+      213: 2550258717878534352
+    second: capital_tiles_11
+  - first:
+      213: 6821566494345665444
+    second: capital_tiles_12
+  - first:
+      213: 2002154183853092366
+    second: capital_tiles_13
+  - first:
+      213: 6786321041608589983
+    second: capital_tiles_14
+  - first:
+      213: -5234879199707829466
+    second: capital_tiles_15
+  - first:
+      213: -1276925694975455708
+    second: capital_tiles_16
+  - first:
+      213: -5515160691314519234
+    second: capital_tiles_17
+  - first:
+      213: 377502968647190542
+    second: capital_tiles_18
+  - first:
+      213: -2571048527449877396
+    second: capital_tiles_19
+  - first:
+      213: 404720918411529924
+    second: capital_tiles_20
+  - first:
+      213: -316566207775409099
+    second: capital_tiles_21
+  - first:
+      213: 273867933716806346
+    second: capital_tiles_22
+  - first:
+      213: 7922186864849838886
+    second: capital_tiles_23
+  - first:
+      213: -9201625082813569030
+    second: capital_tiles_24
+  - first:
+      213: 6648365807797226287
+    second: capital_tiles_25
+  - first:
+      213: 5689965407105301442
+    second: capital_tiles_26
+  - first:
+      213: 5117821427853062224
+    second: capital_tiles_27
+  - first:
+      213: 2088881225270597493
+    second: capital_tiles_28
+  - first:
+      213: 1202789147086540251
+    second: capital_tiles_29
+  - first:
+      213: -5155764902165967005
+    second: capital_tiles_30
+  - first:
+      213: 693016471107740690
+    second: capital_tiles_31
+  - first:
+      213: 4751919992294697906
+    second: capital_tiles_32
+  - first:
+      213: -3064220590951670925
+    second: capital_tiles_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: capital_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 860
+        width: 514
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b30c9572c083150800000000000000
+      internalID: 5852441078916987774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 791
+        width: 111
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e856d0596d5a77d0800000000000000
+      internalID: -2919918701487171356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 759
+        width: 194
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ffdc9888235410800000000000000
+      internalID: 1464558871038129432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 671
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42bca607b6c10520800000000000000
+      internalID: 2666630943773340236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 639
+        width: 194
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65953eeefd0b9070800000000000000
+      internalID: 8114094542207423851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 638
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cb951a779b767a0800000000000000
+      internalID: -6383930023315129236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 655
+        width: 352
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301381805b1671050800000000000000
+      internalID: 5771188877651357955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 495
+        width: 282
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b2977c20c29990800000000000000
+      internalID: -7380625542089623787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 495
+        width: 201
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c38a35afd2675aa0800000000000000
+      internalID: -6172356051598670904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 567
+        width: 342
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57388006983a4c50800000000000000
+      internalID: 6650190016671135582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 471
+        width: 317
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188a44c04c4a0a6d0800000000000000
+      internalID: -2981201791392896895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 138
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d04e74cac6546320800000000000000
+      internalID: 2550258717878534352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 402
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab1e2b95921bae50800000000000000
+      internalID: 6821566494345665444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 375
+        width: 282
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e20225f9419cb10800000000000000
+      internalID: 2002154183853092366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 279
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92c6d8280bdd2e50800000000000000
+      internalID: 6786321041608589983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 175
+        width: 148
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b655b7a19f957b0800000000000000
+      internalID: -5234879199707829466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 247
+        width: 150
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e4b6a88d2774ee0800000000000000
+      internalID: -1276925694975455708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 200
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33100362963673b0800000000000000
+      internalID: -5515160691314519234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 206
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e080fdb23f82d3500800000000000000
+      internalID: 377502968647190542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 262
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c641f0d7cfcc15cd0800000000000000
+      internalID: -2571048527449877396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 263
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cec61fe78bdd9500800000000000000
+      internalID: 404720918411529924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 248
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c77a516b45b9bf0800000000000000
+      internalID: -316566207775409099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 237
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca7f884f69fcc300800000000000000
+      internalID: 273867933716806346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 233
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e3a3eaf241fd60800000000000000
+      internalID: 7922186864849838886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 225
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a29e4db24d4080800000000000000
+      internalID: -9201625082813569030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 63
+        width: 146
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b4b964a7db34c50800000000000000
+      internalID: 6648365807797226287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 105
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbb5ca1461d6fe40800000000000000
+      internalID: 5689965407105301442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 95
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05070172977260740800000000000000
+      internalID: 5117821427853062224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 89
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5779c3238623dfc10800000000000000
+      internalID: 2088881225270597493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 140
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddc9cb4b5a21b010800000000000000
+      internalID: 1202789147086540251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 57
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f88fc432b0378b0800000000000000
+      internalID: -5155764902165967005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 341
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2142fd70fc61e9900800000000000000
+      internalID: 693016471107740690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 109
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb6dc56e0632f140800000000000000
+      internalID: 4751919992294697906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: capital_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 102
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b53e28b93b975d0800000000000000
+      internalID: -3064220590951670925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      capital_tiles_0: 5852441078916987774
+      capital_tiles_1: -2919918701487171356
+      capital_tiles_10: -2981201791392896895
+      capital_tiles_11: 2550258717878534352
+      capital_tiles_12: 6821566494345665444
+      capital_tiles_13: 2002154183853092366
+      capital_tiles_14: 6786321041608589983
+      capital_tiles_15: -5234879199707829466
+      capital_tiles_16: -1276925694975455708
+      capital_tiles_17: -5515160691314519234
+      capital_tiles_18: 377502968647190542
+      capital_tiles_19: -2571048527449877396
+      capital_tiles_2: 1464558871038129432
+      capital_tiles_20: 404720918411529924
+      capital_tiles_21: -316566207775409099
+      capital_tiles_22: 273867933716806346
+      capital_tiles_23: 7922186864849838886
+      capital_tiles_24: -9201625082813569030
+      capital_tiles_25: 6648365807797226287
+      capital_tiles_26: 5689965407105301442
+      capital_tiles_27: 5117821427853062224
+      capital_tiles_28: 2088881225270597493
+      capital_tiles_29: 1202789147086540251
+      capital_tiles_3: 2666630943773340236
+      capital_tiles_30: -5155764902165967005
+      capital_tiles_31: 693016471107740690
+      capital_tiles_32: 4751919992294697906
+      capital_tiles_33: -3064220590951670925
+      capital_tiles_4: 8114094542207423851
+      capital_tiles_5: -6383930023315129236
+      capital_tiles_6: 5771188877651357955
+      capital_tiles_7: -7380625542089623787
+      capital_tiles_8: -6172356051598670904
+      capital_tiles_9: 6650190016671135582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
